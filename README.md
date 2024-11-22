@@ -175,9 +175,7 @@
 
 
 ## Jenkins Pipeline
- * ![image](https://github.com/user-attachments/assets/ad166cf1-79ed-4c12-9934-c054c5053e09)
- * ![image](https://github.com/user-attachments/assets/f48d8209-a9de-4da3-ae8c-52fc0fdb3a41)
- * ![image](https://github.com/user-attachments/assets/353653f6-9d82-48bb-ae6d-a18a0c9db923)
+  ![Jenkins Pipeline](/Images/project6-jenkins.png)
 
 ## SonarQube Static Code Analysis
   * ![image](https://github.com/user-attachments/assets/a8bac607-cebf-4c78-b041-2765734bf039)
